@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CarLoanCalculator</string>
+    <string name="dp_text">Down Payment :</string>
+    <string name="cp_text">Car Price :</string>
+    <string name="ir_text">Interest Rate :</string>
+    <string name="pp_text">Payment Period :</string>
+    <string name="calc_text">Calculate</string>
+    <string name="clresult_txt">Car Loan :</string>
+    <string name="rslt_txt">Result</string>
+</resources>
